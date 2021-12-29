@@ -1,0 +1,8 @@
+
+rootProject.name = "CoolBlue"
+include ':app'
+include ':data'
+include ':domain'
+include ':test'
+include ':ui'
+include ':presentation'
